@@ -1,6 +1,1 @@
-After editing 
-
-
-This is File1
-hello world 
-Aneri 
+this is file1
